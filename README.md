@@ -20,6 +20,9 @@ sudo /opt/lampp/lampp stop
 To start xamp gui
 sudo /opt/lampp/manager-linux-x64.run
 
+Instruction to Download Fuel CMS
+https://docs.getfuelcms.com/installation/installing
+
 
 
 
